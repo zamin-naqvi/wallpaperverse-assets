@@ -9,16 +9,8 @@
       "tags": ["anime", "2k", "cinermatic"],
       "isPremium": false,
       "isOnline": true
-    },
-    {
-      "id": 101,
-      "name": "Example Wallpaper 2",
-      "fileName": "example_2.jpg",
-      "category": "NATURE",
-      "tags": ["nature", "example", "demo"],
-      "isPremium": false,
-      "isOnline": true
     }
   ]
 }
+
 
