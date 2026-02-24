@@ -3,10 +3,10 @@
   "wallpapers": [
     {
       "id": 100,
-      "name": "Example Wallpaper 1",
-      "fileName": "example_1.jpg",
+      "name": "Anime Cinematic",
+      "fileName": "anime_cinematic.png",
       "category": "ANIME",
-      "tags": ["anime", "example", "demo"],
+      "tags": ["anime", "2k", "cinermatic"],
       "isPremium": false,
       "isOnline": true
     },
@@ -21,3 +21,4 @@
     }
   ]
 }
+
